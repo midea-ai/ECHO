@@ -5,7 +5,7 @@
   &nbsp;
   <a href="https://echo-midea-airc.github.io/"><img src="https://img.shields.io/badge/Website-ECHO-blue.svg" alt="Website: ECHO"></a>
   &nbsp;
-  <a href="https://huggingface.co/collections/Constant8868/echo"><img src="https://img.shields.io/badge/HuggingFace-ECHO-yellow.svg" alt="Hugging Face: ECHO"></a>
+  <a href="https://huggingface.co/collections/Midea-AIRC/echo"><img src="https://img.shields.io/badge/HuggingFace-ECHO-yellow.svg" alt="Hugging Face: ECHO"></a>
   &nbsp;
   <a href="https://echo-midea-airc.github.io/"><img src="https://img.shields.io/badge/Technical%20Report-arXiv-red.svg" alt="Technical Report: arXiv"></a>
   <br><br>
@@ -59,7 +59,7 @@ Two inference scripts are provided under `inference/`:
 ```bash
 # ECHO (single-step, distilled)
 python inference/generate_echo.py \
-  --model_dir Constant8868/ECHO_block4 \
+  --model_dir Midea-AIRC/ECHO_block4 \
   --image_path /path/to/image.jpg \
   --prompt_text "Review this chest X-ray and write a report.Use this format: Findings: {}, Impression: {}." \
   --block_length 4 \
@@ -67,7 +67,7 @@ python inference/generate_echo.py \
 
 # ECHO_Base (multi-step)
 python inference/generate_vl_block.py \
-  --model_dir Constant8868/ECHO_Base_block4 \
+  --model_dir Midea-AIRC/ECHO_Base_block4 \
   --image_path /path/to/image.jpg \
   --prompt_text "这是一组胸部X光图像，请生成一份医学报告，包括所见和结论。以以下格式返回报告：所见：{} 结论：{}。" \
   --remasking_strategy "low_confidence_dynamic" \
@@ -81,14 +81,14 @@ See [`eval/README.md`](eval/README.md) for environment setup, batch inference, m
 
 ## 🗂️ Model Zoo
 
-All checkpoints live in the **[ECHO collection](https://huggingface.co/collections/Constant8868/echo)** on Hugging Face.
+All checkpoints live in the **[ECHO collection](https://huggingface.co/collections/Midea-AIRC/echo)** on Hugging Face.
 
 | Model | Stage | Description | Link |
 |------|--------|-------------|------|
-| `ECHO_Base_block4` | RAD | Multi-step block diffusion (block length 4), teacher for distillation | [ECHO_Base_block4](https://huggingface.co/Constant8868/ECHO_Base_block4) |
-| `ECHO_Base_block8` | RAD | Multi-step block diffusion (block length 8), teacher for distillation | [ECHO_Base_block8](https://huggingface.co/Constant8868/ECHO_Base_block8) |
-| `ECHO_block4` | DCD | Single-step distilled student (block length 4) | [ECHO_block4](https://huggingface.co/Constant8868/ECHO_block4) |
-| `ECHO_block8` | DCD | Single-step distilled student (block length 8) | [ECHO_block8](https://huggingface.co/Constant8868/ECHO_block8) |
+| `ECHO_Base_block4` | RAD | Multi-step block diffusion (block length 4), teacher for distillation | [ECHO_Base_block4](https://huggingface.co/Midea-AIRC/ECHO_Base_block4) |
+| `ECHO_Base_block8` | RAD | Multi-step block diffusion (block length 8), teacher for distillation | [ECHO_Base_block8](https://huggingface.co/Midea-AIRC/ECHO_Base_block8) |
+| `ECHO_block4` | DCD | Single-step distilled student (block length 4) | [ECHO_block4](https://huggingface.co/Midea-AIRC/ECHO_block4) |
+| `ECHO_block8` | DCD | Single-step distilled student (block length 8) | [ECHO_block8](https://huggingface.co/Midea-AIRC/ECHO_block8) |
 
 > The **code** in this repository is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
 >
