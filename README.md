@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/ECHO_repo_head.png" alt="ECHO" width="75%">
   <br><br>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg" alt="License: AGPL 3.0"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Midea%20NC-blue.svg" alt="License: Midea Non-Commercial"></a>
   &nbsp;
   <a href="https://echo-midea-airc.github.io/"><img src="https://img.shields.io/badge/Website-ECHO-blue.svg" alt="Website: ECHO"></a>
   &nbsp;
@@ -90,9 +90,7 @@ All checkpoints live in the **[ECHO collection](https://huggingface.co/collectio
 | `ECHO_block4` | DCD | Single-step distilled student (block length 4) | [ECHO_block4](https://huggingface.co/Midea-AIRC/ECHO_block4) |
 | `ECHO_block8` | DCD | Single-step distilled student (block length 8) | [ECHO_block8](https://huggingface.co/Midea-AIRC/ECHO_block8) |
 
-> The **code** in this repository is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
->
-> The **model weights** are released under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This is because the model was trained on datasets that restrict commercial use, including MIMIC-CXR, CheXpert Plus, RexGradient, and IU X-ray. Please use the weights in accordance with these restrictions. For commercial applications, you may need to seek separate permission from the original dataset licensors.
+> Both the **code** and **model weights** in this repository are released under the [Midea Model License Agreement - Non-Commercial Use Version](LICENSE). Use for research, study, and personal non-commercial purposes only. Commercial use is strictly prohibited.
 
 
 ## 👏 Acknowledge
