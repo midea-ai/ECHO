@@ -1,0 +1,110 @@
+[
+    {
+        "sample_id": "7c9662c968ef510ad2e784eb7362d4e6",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNYQEE5P60TDTB/GRDN8CYPNMTP2TSK/studies/1.2.826.0.1.3680043.8.498.58865199584680508387972127556081328336/series/1.2.826.0.1.3680043.8.498.14922950293842004002290913745195241146/instances/1.2.826.0.1.3680043.8.498.29252784234584569360316918534729220333.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNYQEE5P60TDTB/GRDN8CYPNMTP2TSK/studies/1.2.826.0.1.3680043.8.498.58865199584680508387972127556081328336/series/1.2.826.0.1.3680043.8.498.57325292905518934040124985763463396733/instances/1.2.826.0.1.3680043.8.498.45434863338670425017704689910960771923.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Both lung fields are clear. Cardiac silhouette is within normal limits. Hila are not enlarged. Both diaphragms and costophrenic angles appear normal. The visualized bony structures are unremarkable.",
+            "impression": "No active cardiopulmonary disease. No significant abnormalities detected in the lungs, heart, or diaphragm."
+        }
+    },
+    {
+        "sample_id": "cb8e9f1c216700eb06ae3f9255be97c1",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNBESRVLNVDLGL/GRDN7JSRASM34CC4/studies/1.2.826.0.1.3680043.8.498.64337192623362470157521213098598841479/series/1.2.826.0.1.3680043.8.498.54497306197119749661818277070576856701/instances/1.2.826.0.1.3680043.8.498.77271800971076328503676686457293167294.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNBESRVLNVDLGL/GRDN7JSRASM34CC4/studies/1.2.826.0.1.3680043.8.498.64337192623362470157521213098598841479/series/1.2.826.0.1.3680043.8.498.60987906304231502161926640457310301393/instances/1.2.826.0.1.3680043.8.498.31033299494715406885257734293055471460.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is clear and follows a normal course; no definite abnormal opacities are seen in either lung field. Cardiac silhouette is within normal limits. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "No active cardiopulmonary disease."
+        }
+    },
+    {
+        "sample_id": "235c79d4bb68947b7f042506cf2b31b2",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDN3F6GX569L56M/GRDN1W1ORC37QVY4/studies/1.2.826.0.1.3680043.8.498.36592350026223242318585762552035489941/series/1.2.826.0.1.3680043.8.498.36725966919248655272934667994783525163/instances/1.2.826.0.1.3680043.8.498.28546098438480003939398989087366842962.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDN3F6GX569L56M/GRDN1W1ORC37QVY4/studies/1.2.826.0.1.3680043.8.498.36592350026223242318585762552035489941/series/1.2.826.0.1.3680043.8.498.67187199569519025053873037358330496152/instances/1.2.826.0.1.3680043.8.498.73419836209074193084623120994079626265.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is clear and follows a normal course; no definite abnormal opacities are seen in either lung field. Cardiac silhouette is upper normal. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. Moderate sigmoid scoliosis of the thoracolumbar spine is identified. Bony structures are otherwise unremarkable.",
+            "impression": "No active cardiopulmonary disease. Moderate sigmoid scoliosis noted."
+        }
+    },
+    {
+        "sample_id": "dff8c3bc7728e45b3ca779b0d33b2650",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNKHW0TIM64B5N/GRDNN5R4FD6E2807/studies/1.2.826.0.1.3680043.8.498.71051293360228960247587811000881217543/series/1.2.826.0.1.3680043.8.498.33543287971899962721189901783686686868/instances/1.2.826.0.1.3680043.8.498.15326446216380183830760121145232477215.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNKHW0TIM64B5N/GRDNN5R4FD6E2807/studies/1.2.826.0.1.3680043.8.498.71051293360228960247587811000881217543/series/1.2.826.0.1.3680043.8.498.55892558416341374190302878089950573828/instances/1.2.826.0.1.3680043.8.498.79768535659889007986979258515984589765.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline with a thin border of gas demonstrated along the left heart border extending into the upper mediastinum on the left. Bibasilar airspace disease greater on the left is seen in the lung fields. Cardiac silhouette is normal in size. Hila are unremarkable. Both diaphragms and costophrenic angles appear normal. Bony structures are unremarkable.",
+            "impression": "1. Bibasilar airspace disease greater on the left. 2. Pneumomediastinum."
+        }
+    },
+    {
+        "sample_id": "8c9b80cfe3267ab1bd037d8d5f2c6962",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNVM23ZU91BLND/GRDNM11W91IQT9NF/studies/1.2.826.0.1.3680043.8.498.96873243988268129134264250603831533654/series/1.2.826.0.1.3680043.8.498.93739243346934710227922665232673721935/instances/1.2.826.0.1.3680043.8.498.14644947390013266229515278093878878978.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNVM23ZU91BLND/GRDNM11W91IQT9NF/studies/1.2.826.0.1.3680043.8.498.96873243988268129134264250603831533654/series/1.2.826.0.1.3680043.8.498.93739243346934710227922665232673721935/instances/1.2.826.0.1.3680043.8.498.61995186490419437365916317344495703360.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is clear and follows a normal course; no definite abnormal opacities are seen in either lung field. Cardiac silhouette is enlarged. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "1. No pulmonary infiltrates. 2. Cardiomegaly. 3. The chest appears mildly hyperexpanded suspicious for a history of COPD."
+        }
+    },
+    {
+        "sample_id": "1c53c0e6a9ebc420e1032bb95a31ff74",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDN6ZUR3EV5XYW4/GRDNHBVHG5R6AT92/studies/1.2.826.0.1.3680043.8.498.17884364672831543676424544664727844004/series/1.2.826.0.1.3680043.8.498.63883006769372765507887615439950256156/instances/1.2.826.0.1.3680043.8.498.41455200913477778138358212004550511209.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDN6ZUR3EV5XYW4/GRDNHBVHG5R6AT92/studies/1.2.826.0.1.3680043.8.498.17884364672831543676424544664727844004/series/1.2.826.0.1.3680043.8.498.72755225375858735154676936697386535658/instances/1.2.826.0.1.3680043.8.498.72873612237386798623994330524565440259.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Lung fields demonstrate hyperinflation; residual scarring and thickening are present. Pulmonary vasculature shows increased perihilar bronchitic markings. Cardiac silhouette is normal in size and contour. Hila are unremarkable. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Persistent right upper lobe masslike density. Increase in perihilar bronchitic markings could represent bronchitis. Consider clinical correlation for further evaluation."
+        }
+    },
+    {
+        "sample_id": "36d91c33bfc8952b72ac7ab1d6178144",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNN0I5FIYHMMFF/GRDN0SQCWT4HTX9W/studies/1.2.826.0.1.3680043.8.498.62170686990630396216514130467297464776/series/1.2.826.0.1.3680043.8.498.63144084754766388588624361372658282363/instances/1.2.826.0.1.3680043.8.498.72207485121196393600883050230725696509.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Mild infrahilar atelectasis is present; no definite focal opacities, consolidations, pulmonary edema, pleural effusion, or pneumothorax are seen in either lung field. Cardiac silhouette is within normal limits. Hila are mildly atelectatic. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas. Cardiac pacemaker device is present in the chest. Right upper extremity PICC line is present. Enteric feeding tube courses to the epigastric region, tip not included.",
+            "impression": "Lines and tubes. Low lung volumes with infrahilar atelectasis. Recommend clinical correlation for atelectasis management."
+        }
+    },
+    {
+        "sample_id": "04a3e340bca6caa22f01d4ee0e3547a0",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNONLAWMSA7NP0/GRDN5ONIYZHO68EV/studies/1.2.826.0.1.3680043.8.498.31609889900446759554627123244111107147/series/1.2.826.0.1.3680043.8.498.39224519032563825962581468627046557435/instances/1.2.826.0.1.3680043.8.498.97283300955264892003652749264970027765.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Lung fields show hypoexpansion; left basilar airspace opacity is present. Cardiac silhouette is borderline enlarged. Hila are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas. Endotracheal tube is seen ending above the carina. Enteric tube is noted extending below the diaphragm. Right IJ line is noted ending about the mid SVC. No pneumothorax is seen.",
+            "impression": "1. Endotracheal tube seen ending above the carina. 2. Lungs hypoexpanded. Left basilar airspace opacity may reflect atelectasis or pneumonia. 3. Vascular congestion and borderline cardiomegaly. Small left pleural effusion suspected. Recommend clinical correlation and possible follow-up imaging for pleural effusion and left basilar opacity."
+        }
+    },
+    {
+        "sample_id": "807e20ca0c8b34e12eba0cd244690e69",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNFIZBX85AQCF5/GRDN3R0A6KZ8NBQN/studies/1.2.826.0.1.3680043.8.498.63094622514299304347424593220584302638/series/1.2.826.0.1.3680043.8.498.10849452006000309762263765931935714320/instances/1.2.826.0.1.3680043.8.498.11604013832160817285742417459290799532.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNFIZBX85AQCF5/GRDN3R0A6KZ8NBQN/studies/1.2.826.0.1.3680043.8.498.63094622514299304347424593220584302638/series/1.2.826.0.1.3680043.8.498.66831120358018663257203320764962421762/instances/1.2.826.0.1.3680043.8.498.57108604712681292785648151675485787297.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. No definite focal opacities or consolidations are seen in the lung fields. Cardiac silhouette is within normal limits. Hila are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "No active cardiopulmonary disease. No significant abnormalities detected in the lungs, heart, or diaphragm."
+        }
+    },
+    {
+        "sample_id": "c3f678fa3b7a5cab54fe73b4a6c8460a",
+        "images": [
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNDO47R93AK138/GRDNDXZYCFAPRZ2K/studies/1.2.826.0.1.3680043.8.498.32910677105499002917134117104147239436/series/1.2.826.0.1.3680043.8.498.66729469114781306445951640442101219258/instances/1.2.826.0.1.3680043.8.498.79901214182719328317660995939072336705.png",
+            "../CXRTest/rexgradient_16_8_1500/deid_png/GRDNDO47R93AK138/GRDNDXZYCFAPRZ2K/studies/1.2.826.0.1.3680043.8.498.32910677105499002917134117104147239436/series/1.2.826.0.1.3680043.8.498.89326928221458061592287933611575044469/instances/1.2.826.0.1.3680043.8.498.32150781815938710290835247296273026273.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum is midline; trachea is midline. Pulmonary vasculature is clear and follows a normal course; no definite abnormal opacities are seen in either lung field. Cardiac silhouette is normal in size. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. Bony structures are intact without abnormalities. Thoracic aorta is markedly tortuous.",
+            "impression": "No acute cardiopulmonary disease. Consider vascular assessment for tortuous aorta."
+        }
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "sample_id": "0c2d357f39790198bb61cf67924f8dcd",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient32493/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Lung fields are clear bilaterally with no evidence of pneumothorax. Pulmonary vasculature is clear and follows a normal course. Cardiac silhouette is within normal limits. Hila are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Cardiomegastinal silhouette unremarkable and lungs clear bilaterally with no evidence of pneumothorax or osseous abnormalities."
+        }
+    },
+    {
+        "sample_id": "d86f4fe60b653aa89f37a0d8730801e8",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient41244/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is clear and follows a normal course; no definite abnormal opacities are seen in either lung field except for slight subsegmental atelectasis at the left lung base. Cardiac silhouette is within normal limits. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "No pneumothorax. Slight subsegmental atelectasis at the left lung base."
+        }
+    },
+    {
+        "sample_id": "afda9d04b3d9460aabe54fc6e5348bdc",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient56928/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is asymmetric due to left rib fractures. Mediastinum and trachea are midline. Lung fields show a small left possibly loculated pleural effusion; no pneumothorax is identified. Cardiac silhouette is within normal limits. Hila are not enlarged. Diaphragm and costophrenic angles are unremarkable. Bony structures show left clavicular fracture and left rib fractures. Left chest tube is in place.",
+            "impression": "Left rib and clavicular fractures. Left chest tube in place. No pneumothorax. Small left possibly loculated pleural effusion."
+        }
+    },
+    {
+        "sample_id": "572a630b142c3b3d3a5801bb92cafba0",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient16679/study4/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Mild vascular congestion is noted. Small bilateral pleural effusions are present. Bibasilar opacities are seen. Lung fields are unremarkable apart from bibasilar opacities. Cardiac silhouette is enlarged. Hila are unremarkable. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Mild pulmonary edema. Small bilateral pleural effusions. Bibasilar opacities likely atelectasis. Clinical correlation recommended."
+        }
+    },
+    {
+        "sample_id": "15ae00a702e8b78765eb68e4f08b41af",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient28654/study16/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is obscured by diffuse bilateral parenchymal opacities; no definite additional abnormalities are identified in the lung fields. Cardiac silhouette is within normal limits. Hila are obscured by diffuse bilateral parenchymal opacities. Both diaphragms and costophrenic angles appear normal. Spinal fixation hardware present. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Spinal fixation hardware and medical support devices present. Diffuse bilateral parenchymal opacities. Low lung volumes with moderately-sized right pleural effusion. Consider underlying pulmonary pathology or acute respiratory process."
+        }
+    },
+    {
+        "sample_id": "fa185abf7bdd75b64f391c45f10ca6f9",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient32218/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Lung fields show diffuse reticular nodular opacities; no definite focal opacities or consolidations are seen. Cardiac silhouette is at the upper limits of normal in size. Hila are unremarkable. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Diffuse reticular nodular opacities which may be related to low lung volumes, however may also represent infection, aspiration or pulmonary edema. No evidence of pleural effusions. The cardiac silhouette is at the upper limits of normal in size. Clinical correlation recommended to evaluate for infectious, inflammatory, or cardiogenic etiologies."
+        }
+    },
+    {
+        "sample_id": "ab904987515a8eb74c809b1ca2ace24d",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient35823/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Pulmonary vasculature is clear and follows a normal course; basilar streaky opacities are present. Cardiac silhouette is within normal limits. Hilar shadows are not enlarged. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas. Left internal jugular central venous catheter seen with tip near brachiocephalic/SVC confluence. No evidence of pneumothorax.",
+            "impression": "Left internal jugular central venous catheter seen with tip near brachiocephalic/SVC confluence. No evidence of pneumothorax. Basilar streaky opacities consistent with subsegmental atelectasis. Recommend clinical correlation for atelectasis management."
+        }
+    },
+    {
+        "sample_id": "7e42a5461b951a3c14c9809b54032685",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient39002/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline; cardiomegaly is noted on the upper limits of normal size. Pulmonary vasculature demonstrates increased congestion with indistinct borders; no definite abnormal opacities are seen in either lung field. Cardiac silhouette is enlarged on the upper limits of normal size. Left hila are prominent; right hila are unremarkable. Both diaphragms and costophrenic angles appear normal. Bony structures demonstrate a healed left clavicle fracture and unchanged deformity of the right clavicle. No osseous abnormalities are identified in the ribs, scapulae, or spine.",
+            "impression": "Interval development of mild pulmonary edema and left hilar prominence. Consider clinical correlation for management of pulmonary edema and evaluation of persistent left hilar prominence. No significant acute osseous pathology identified."
+        }
+    },
+    {
+        "sample_id": "5a7f3f2768386c8b2a1ab70cb33ae410",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient60848/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline. Prominent interstitial markings are present; no definite focal opacities or consolidations are seen in either lung field. Cardiac silhouette is within normal limits. Hila and hilar shadows are unremarkable. Both diaphragms and costophrenic angles appear normal. No osseous abnormalities are identified in the imaged areas.",
+            "impression": "Prominent interstitial markings which may be seen with atypical infection versus edema."
+        }
+    },
+    {
+        "sample_id": "5ccd45fcf129c58f09ee55fdb496d333",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient03872/study2/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "The thorax is symmetric bilaterally. The mediastinum and trachea are midline; sternotomy wires and mediastinal clips are present. Right tunneled central venous catheter is in place. Pulmonary vessels show mild increased prominence; patchy opacity is present at the left lung base. Cardiac silhouette is normal. Hila are unremarkable. Both diaphragms and costophrenic angles are normal. Bony structures are unremarkable.",
+            "impression": "Catheter. Wires and clips. Low volumes with vessel prominence and opacity. Recommend clinical correlation for the left lung base opacity and low lung volumes."
+        }
+    }
+]

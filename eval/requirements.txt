@@ -1,0 +1,41 @@
+# EasyEval minimal requirements (simplified)
+# Python 3.10 + CUDA 12.x recommended.
+
+# Core DL stack
+torch==2.7.1
+torchvision==0.22.1
+torchaudio==2.7.1
+transformers==4.57.1
+accelerate==0.29.1
+tokenizers==0.22.2
+sentencepiece==0.1.99
+safetensors==0.7.0
+
+# Inference / serving
+vllm==0.10.0
+qwen-vl-utils==0.0.14
+
+# Data and utils
+numpy==2.2.6
+pandas==2.3.3
+pillow==12.0.0
+tqdm==4.67.1
+datasets==2.16.1
+openai==1.90.0
+opencv-python==4.13.0.92
+
+# Evaluation
+ray==2.51.1
+nltk==3.9.2
+rouge==1.0.1
+rouge-chinese==1.0.3
+cidereval==0.0.1
+jieba==0.42.1
+ratescore==0.6.0
+medspacy==1.3.1
+typing_extensions
+
+# Optional acceleration (install when needed)
+# xformers==0.0.31
+# flash-attn==2.8.0.post2
+# deepspeed==0.14.4

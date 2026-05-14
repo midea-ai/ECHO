@@ -1,0 +1,106 @@
+[
+    {
+        "sample_id": "1aa3c1ddf8eef759f172512db296b86b",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient49820/study1/view1_frontal.png",
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient49820/study1/view2_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称，纵隔及气管基本居中。两肺纹理清晰、走行自然，两肺野内未见明显异常密度影。心影尚可，两肺门影不大，两侧肋膈角及两侧膈肌尚可。所见范围内各骨性结构未见明显异常。",
+            "impression": "双肺、心、膈未见明显异常。"
+        }
+    },
+    {
+        "sample_id": "e39e1605ff7c82b365efa732453aac37",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient09023/study1/view2_lateral.png",
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient09023/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓对称，纵隔及气管基本居中。两肺纹理清晰、走行自然，两肺野内未见明显异常密度影。心影正常，两肺门影不大。两侧膈肌清晰、光滑，两侧肋膈角锐利。所见范围内各骨性结构未见明显异常。右侧气管旁条带增宽。未见急性骨折或脱位。",
+            "impression": "未见急性心肺疾病；未见气胸；未见急性骨折或脱位。"
+        }
+    },
+    {
+        "sample_id": "fe33e65413722cb039149dadb1880d2b",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient12190/study1/view1_frontal.png",
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient12190/study1/view2_lateral.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓对称，纵隔及气管基本居中。两肺纹理清晰，双肺容量低伴双肺底部网状影，未见局灶性实变、胸腔积液、气胸。心影增大。两肺门影不大，两侧肋膈角锐利，两侧膈肌光滑。所见骨性结构脱矿化，未见急性骨性异常。",
+            "impression": "双肺底部网状影伴肺容量低，最可能为肺不张。建议临床进一步评估。"
+        }
+    },
+    {
+        "sample_id": "c1cc230bb552ec529a54c9c47e775d84",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient48037/study1/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称，纵隔及气管基本居中。左下肺叶及右肺弥漫性渗出影。两肺野内未见明显异常密度影。心影尚可，两肺门影不大，两侧肋膈角及两侧膈肌尚可。所见范围内各骨性结构未见明显异常。",
+            "impression": "左下肺叶及右肺弥漫性渗出影，需鉴别感染及吸入性病变。右肺见少量胸腔积液。建议临床结合临床病史进一步评估。"
+        }
+    },
+    {
+        "sample_id": "76c262064cd084dbaeed03361d367581",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient31313/study7/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓对称，纵隔及气管居中，气管导管置入。双肺清晰，未见局灶浸润或水肿，两肺纹理清晰。心影正常。两肺门正常。两侧膈肌清晰、光滑，两侧肋膈角锐利。骨质未见明显异常，右胸壁皮下气肿吸收，右颈内静脉中心静脉导管及左侧胸管在位。",
+            "impression": "气管导管置入，喂养管及鼻胃管已拔除，右颈内静脉中心静脉导管及左侧胸管在位，右胸壁皮下气肿吸收。"
+        }
+    },
+    {
+        "sample_id": "8cfec5ad2aae1a2882bf1f04abf922db",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient35340/study6/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称。纵隔及气管基本居中。两肺纹理增粗、模糊，双侧轻度肺水肿，双肺基底肺泡积液，右肺基底透亮度增加。心影尚可。两肺门影增大。两侧膈肌抬高，两侧肋膈角变钝。所见范围内各骨性结构未见明显异常。Swan-Ganz导管尖端位于肺叶间动脉。",
+            "impression": "右肺基底透亮度增加，可能为右中/下叶肺不张伴小量右胸腔积液。Swan-Ganz导管尖端位于肺叶间动脉。建议结合临床进一步评估。"
+        }
+    },
+    {
+        "sample_id": "eb3230e24fd02115343f74b472bdb688",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient35860/study2/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓对称，纵隔及气管居中。两肺纹理清晰，右基底部见轻度网状结节状阴影，左基底部见轻度肺不张，两肺野内未见明显异常密度影。心影大小位于正常范围。两肺门影不大。两侧肋膈角变钝，两侧膈肌清晰。右肱骨头旁钙化。左上肢PICC导管位置在位。所见范围内各骨性结构未见明显异常，轻度退行性变。",
+            "impression": "左上肢PICC导管位置在位。右基底部网状结节状阴影可能反映早期浸润。左基底部轻度肺不张。肋膈角变钝提示少量胸腔积液或胸膜增厚。未见肺水肿。"
+        }
+    },
+    {
+        "sample_id": "db9dfeca887f33ff5228b472aba5014b",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient27517/study5/view2_lateral.png",
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient27517/study5/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称。纵隔及气管居中，纵隔内钢丝与夹子符合既往手术。两肺野内未见明显异常密度影，双肺血管纹理正常。心影增大。两肺门影不大。两侧膈肌清晰，右侧包裹性胸腔积液，左侧未见胸腔积液。两侧肋膈角锐利，右侧移位肋骨骨折及左侧慢性肋骨骨折形态稳定。所见范围内各骨性结构未见其他明显异常。",
+            "impression": "纵隔内钢丝与夹子符合既往手术。心脏轮廓增大。双肺血管纹理正常。右侧包裹性胸腔积液。左侧未见胸腔积液。右侧移位肋骨骨折及左侧慢性肋骨骨折形态稳定。建议临床结合症状随访评估。"
+        }
+    },
+    {
+        "sample_id": "6d8efba7d4769bc96fd33ea2591b4319",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient08813/study3/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称，纵隔及气管基本居中。左心后区肺不张，两肺野内未见明显异常密度影。心影增大，两肺门影未见明显异常，两侧肋膈角锐利，两侧膈肌光滑，所见范围内各骨性结构未见明显异常。",
+            "impression": "左心后区肺不张，未见显著异常。"
+        }
+    },
+    {
+        "sample_id": "7ee769fb1c977cc8b73e893f943afa57",
+        "images": [
+            "../CXRTest/chexpertplus/PNG/PNG/train/patient46240/study2/view1_frontal.png"
+        ],
+        "ground_truth": {
+            "findings": "两侧胸廓基本对称，纵隔及气管基本居中。双肺纹理清晰、走行自然，双肺野内未见明显异常密度影，轻度双侧肺尖瘢痕。心影尚可，两肺门影不大，两侧肋膈角及两侧膈肌尚可，所见范围内各骨性结构未见明显异常。",
+            "impression": "导管置入后未见气胸。双肺清晰。"
+        }
+    }
+]
