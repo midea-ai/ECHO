@@ -45,8 +45,8 @@ Highlights:
 ### Inference
 
 ```bash
-git clone https://github.com/clf28/ECHO.git
-cd ./echo/inference
+git clone https://github.com/midea-ai/ECHO.git
+cd ./ECHO/inference
 pip install transformers==4.55.4
 python generate_echo.py
 ```
